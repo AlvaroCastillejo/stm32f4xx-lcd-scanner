@@ -1,0 +1,9 @@
+fase2.c:19:6:InitializeDMA	88	static
+fase2.c:62:6:InitializeDMA_MemToMem	72	static
+fase2.c:95:6:DMA2_Stream1_IRQHandler	8	static
+fase2.c:111:6:DMA2_Stream0_IRQHandler	8	static
+fase2.c:135:6:InitializeUSART1	40	static
+fase2.c:173:6:InitializeUSART2	32	static
+fase2.c:204:6:fnc_sendUSART	24	static
+fase2.c:220:6:USART1_IRQHandler	16	static
+fase2.c:295:6:InitializeDMA1	8	static

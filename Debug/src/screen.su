@@ -1,0 +1,11 @@
+screen.c:3:7:DibuixaLiniaHoritzontal	40	static
+screen.c:10:7:DibuixaLiniaVertical	32	static
+screen.c:18:10:GetPixel	24	static
+screen.c:28:7:DibuixaCircumferencia	48	static
+screen.c:55:7:SetPixelWithColor	16	static
+screen.c:63:7:EsborraPantalla	24	static
+screen.c:81:7:SetPixel	24	static
+screen.c:91:6:DibuixaLinea	56	static
+screen.c:105:6:printAxis	24	static
+screen.c:128:6:obstacle	32	static
+screen.c:141:6:printMeasure	24	static
